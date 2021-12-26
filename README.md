@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @salmandotweb
 - 👀 I’m interested in @coding
-- 🌱 I’m currently learning @frontend
+- 🌱 I’m currently working as a @frontend_Developer
 - 💞️ I’m looking to collaborate on any frontend project
 - 📫 How to reach me @salmandotweb@gmail.com
 
