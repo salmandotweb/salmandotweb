@@ -1,3 +1,5 @@
+<?javascript
+
 class Me {}
 
 class About extends Me {
