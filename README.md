@@ -1,3 +1,31 @@
-Experienced Software Engineer skilled in web development and design, currently contributing to Rising Technologies by creating seamless user experiences. Proven track record as a Lead Frontend Web Developer at Softvercasa, collaborating with clients to enhance their websites and applications. Proficient in JavaScript, ReactJs, NodeJs, and more, and passionate about delivering user-friendly websites.
+class Me {}
 
-<a href="http://www.github.com/salmandotweb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=salmandotweb&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+class About extends Me {
+    getCurrentWorkplace() {
+        return {
+            workplace: {
+                company: 'Rising Technologies',
+                position: 'Software Engineer'
+            }
+        };
+    }
+
+    getDailyKnowledge() {
+        return [
+            'Javascript',
+            'React',
+            'Next',
+            'Node',
+            'Typescript',
+            'Taiwindcss',
+            'Material UI'
+            'AWS'
+            'TRPC'
+            'T3 Stack'
+        ];
+    }
+
+    getFutureGoal() {
+        return 'To contribute to open source.';
+    }
+}
