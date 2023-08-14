@@ -1,5 +1,5 @@
-<?javascript
-
+<pre>
+<code>
 class Me {}
 
 class About extends Me {
@@ -31,3 +31,5 @@ class About extends Me {
         return 'To contribute to open source.';
     }
 }
+</code>
+</pre>
