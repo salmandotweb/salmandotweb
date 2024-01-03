@@ -1,35 +1,4 @@
-<pre>
-<code>
-class Me {}
+Hey, I'm Salman 👋
+I'm a design-minded engineer who loves to experiment with new stuff along with building collaborative applications.
 
-class About extends Me {
-    getCurrentWorkplace() {
-        return {
-            workplace: {
-                company: 'Rising Technologies',
-                position: 'Software Engineer'
-            }
-        };
-    }
-
-    getDailyKnowledge() {
-        return [
-            'Javascript',
-            'React',
-            'Next',
-            'Node',
-            'Typescript',
-            'Taiwindcss',
-            'Material UI'
-            'AWS'
-            'TRPC'
-            'T3 Stack'
-        ];
-    }
-
-    getFutureGoal() {
-        return 'To contribute to open source.';
-    }
-}
-</code>
-</pre>
+Find me on Twitter @salmandotweb
